@@ -1,0 +1,1 @@
+# CLI Text Generation Application
